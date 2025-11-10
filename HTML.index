@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perfume</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="header">
+        <nav>
+            <h1>Perfume</h1>
+            <ul>
+                <li>Home</li>
+                <li>Product</li>
+                <li>About Us</li>
+                <li>Contact Us</li>
+            
+            </ul>
+        </nav>
+    </div>
+
+    <div class="serachbar">
+    <input type="search" placeholder="serach">
+    </div>
+
+    <div class="products">
+        <div class="box">
+            <img src="https://source.unsplash.com/220x220/?perfume?1">
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eligendi accusamus quia vitae impedit incidunt, sapiente quas suscipit iure exercitationem esse.</p>
+        </div>
+
+         <div class="box">
+            <img src="https://source.unsplash.com/220x220/?perfume?2">
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eligendi accusamus quia vitae impedit incidunt, sapiente quas suscipit iure exercitationem esse.</p>
+        </div>
+
+         <div class="box">
+            <img src="https://source.unsplash.com/220x220/?perfume?3">
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eligendi accusamus quia vitae impedit incidunt, sapiente quas suscipit iure exercitationem esse.</p>
+        </div>
+    </div>
+
+
+    <div class="about">
+        <h1 style="text-align: center;"> About us</h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam assumenda maiores similique? Ab ullam dicta, reiciendis repellendus similique eum error repellat suscipit sequi voluptas aut minus minima natus veniam corrupti nisi, quaerat laborum ducimus possimus amet quasi recusandae! Quaerat assumenda nisi dolor ducimus dolores pariatur repellendus impedit aperiam commodi, a veritatis amet aliquid, eum maiores quam, in ullam. Sunt sint cupiditate, dolorem voluptatum voluptatem natus nihil cumque minus distinctio, eius, doloremque consequuntur inventore sequi. Quod laborum ea officia esse. Libero eligendi ut qui quis culpa facere voluptas commodi cumque harum necessitatibus, laborum assumenda explicabo nesciunt cupiditate nulla amet quia numquam tenetur maxime repudiandae veniam, illum et dolor animi. Similique corrupti ad est et magni itaque rerum, esse explicabo quidem cupiditate vel dolorem odit dicta amet hic! Mollitia eligendi veniam aliquam aperiam! Fugit, sapiente, praesentium debitis voluptatibus optio eos maiores quo voluptatum obcaecati ratione modi esse provident ducimus recusandae iusto facere vel dignissimos quas? Porro cumque ipsum iusto, est, possimus quidem quos ratione at, dolores repudiandae maiores ipsa saepe voluptate unde quibusdam natus corporis iste quis quod? Repudiandae nam aspernatur porro ea in est ipsum nihil dolorum suscipit culpa! Dolorum dolores cupiditate quod, expedita et ab autem maxime sapiente rerum quaerat dignissimos eum ratione minus adipisci quisquam laboriosam, voluptatibus consequatur sequi quos eveniet, iste velit quia ipsum? Quo quas, iusto debitis delectus earum eaque a quisquam, deserunt incidunt cupiditate voluptatibus at iste doloremque quod suscipit alias ad laboriosam exercitationem ullam ut? Quasi, quo dolore. Praesentium sit nisi nemo. Quia ut magni veritatis cumque delectus ducimus, odit expedita atque fuga possimus! Asperiores nostrum accusamus perferendis repellat facere enim illum adipisci, libero earum aut. Voluptate omnis iusto earum similique recusandae quaerat voluptates. Laborum corporis ullam illo molestias quam quibusdam tempora amet, dolore provident totam voluptatibus in quisquam enim eum libero iste accusamus. Vel!</p>
+    </div>
+
+    <div class="Contact">
+    <h4>Contact</h4>
+    <p>+91 7367367367</p>
+    <p>perfume@gmail.com</p>
+    <p style="margin-top: 30px; font-size: 10px;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo ipsa, nihil veritatis architecto quidem consequuntur alias mollitia vel placeat sit ut? Nulla sit ullam, maiores fuga non laboriosam deleniti voluptates voluptas totam unde, quas perferendis officia vero mollitia? Sapiente quam amet omnis dignissimos a qui, nisi rerum iusto ab autem atque eveniet recusandae animi provident, ratione eum beatae doloremque ipsa quidem! Facilis quos, voluptas quia, dolor a, ad labore optio magnam molestias tempore possimus. At, amet facilis, dolor est nostrum veritatis quo totam eius, minima quidem aliquid doloribus. Enim neque expedita quia tempora exercitationem reprehenderit cumque distinctio rerum illum obcaecati.</p>
+ </div>
+
+</body>
+</html>
